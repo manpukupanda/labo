@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on manpuku panda</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on manpuku panda</description>
+    <generator>Hugo</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 24 Mar 2025 09:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome!</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 24 Mar 2025 09:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;ようこそ&#34;&gt;ようこそ&lt;/h2&gt;&#xA;&lt;p&gt;このサイトでは、フリーの開発者であるまんぷくパンダ氏が開発している&#xA;WEBサービスを紹介しています。&lt;/p&gt;&#xA;&lt;h3 id=&#34;有報検索システム&#34;&gt;有報検索システム&lt;/h3&gt;&#xA;&lt;p&gt;有価証券報告書（半期報告書）の検索・閲覧ができるシステムです。&lt;br&gt;&#xA;EDINET APIで取得したデータをもとに運営しています。&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://133.18.160.183/manten/&#34;&gt;リンク&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
