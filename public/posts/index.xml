@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on manpuku panda</title><link>https://example.org/posts/</link><description>Recent content in Posts on manpuku panda</description><generator>Hugo</generator><language>ja-JP</language><lastBuildDate>Mon, 24 Mar 2025 09:00:00 +0900</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Welcome!</title><link>https://example.org/posts/my-first-post/</link><pubDate>Mon, 24 Mar 2025 09:00:00 +0900</pubDate><guid>https://example.org/posts/my-first-post/</guid><description>&lt;h2 id="ようこそ">ようこそ&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on manpuku panda</title><link>https://manpukupanda.tech/posts/</link><description>Recent content in Posts on manpuku panda</description><generator>Hugo</generator><language>ja-JP</language><lastBuildDate>Mon, 24 Mar 2025 09:00:00 +0900</lastBuildDate><atom:link href="https://manpukupanda.tech/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Welcome!</title><link>https://manpukupanda.tech/posts/my-first-post/</link><pubDate>Mon, 24 Mar 2025 09:00:00 +0900</pubDate><guid>https://manpukupanda.tech/posts/my-first-post/</guid><description>&lt;h2 id="ようこそ">ようこそ&lt;/h2>
 &lt;p>このサイトでは、フリーの開発者であるまんぷくパンダ氏が開発している
 WEBサービスを紹介しています。&lt;/p>
 &lt;h3 id="有報検索システム">有報検索システム&lt;/h3>
 &lt;p>有価証券報告書（半期報告書）の検索・閲覧ができるシステムです。&lt;br>
 EDINET APIで取得したデータをもとに運営しています。&lt;/p>
-&lt;p>&lt;a href="http://133.18.160.183/manten/">リンク&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;p>&lt;a href="https://manpukupanda.tech/manten/">リンク&lt;/a>&lt;/p></description></item></channel></rss>
