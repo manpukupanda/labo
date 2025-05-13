@@ -4,9 +4,9 @@ WEBサービスを紹介しています。&lt;/p>
 &lt;h2 id="有報検索システム">&lt;a href="https://manpukupanda.tech/manten/">有報検索システム&lt;/a>&lt;/h2>
 &lt;p>有価証券報告書（半期報告書）の検索・閲覧ができるシステムです。&lt;br>
 EDINET APIで取得したデータをもとに運営しています。&lt;/p>
-&lt;h2 id="自己紹介">自己紹介&lt;/h2>
-&lt;p>まんぷくパンダです。フリーのITエンジニア兼投資家です。&lt;br>
-マイブームはGoとPostgreSQL。PythonとC#が得意です。&lt;br>
-デザインはちょっと苦手でバックエンドが主戦場。&lt;br>
-手離れの良い実用性のある成果物に定評があります。お仕事はいつでも募集してます。
-よろしくお願いします。&lt;/p></description></item></channel></rss>
+&lt;h2 id="bookstack">&lt;a href="https://manpukupanda.tech/bookstack/">BookStack&lt;/a>&lt;/h2>
+&lt;p>EDINETタクソノミの情報や項目一覧を&lt;a href="https://www.bookstackapp.com/">BookStack&lt;/a>というWikiツールを使ってまとめたサイトです。&lt;/p>
+&lt;p>タクソノミの項目データベースを作りたくてやってみました。
+タクソノミを解析してRDBに落とし込んで、そこから検索サイトを作るのがいつものパターンなのですが、
+今回は検索サイトを自作せず、代わりにWikiツールを使ってみました。
+BookStackはデザインも今風で良かったのですが、日本語の検索は一癖ありキーワードを「&amp;quot;」（ダブルクォーテーション）で囲うとよさそうです。&lt;/p></description></item></channel></rss>
